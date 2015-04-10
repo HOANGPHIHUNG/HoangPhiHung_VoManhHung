@@ -6,7 +6,7 @@ using System.Text;
 
 namespace PhotoAlbum
 {
-    class PhotoAlbum : Collection<Photo>, IDisposable
+    public class PhotoAlbum : Collection<Photo>, IDisposable
     {
         private bool hasChanged = false;
         public bool HasChanged
