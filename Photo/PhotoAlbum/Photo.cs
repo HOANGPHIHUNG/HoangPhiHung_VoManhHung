@@ -6,7 +6,7 @@ using System.Drawing;
 
 namespace PhotoAlbum
 {
-    class Photo : IDisposable
+    public class Photo : IDisposable
     {
         private string fileName;
         public string FileName
