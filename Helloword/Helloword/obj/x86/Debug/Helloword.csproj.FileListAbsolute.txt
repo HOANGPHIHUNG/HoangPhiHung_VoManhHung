@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2010\Projects\Helloword\Helloword\bin\Debug\Helloword.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Helloword\Helloword\bin\Debug\Helloword.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Helloword\Helloword\obj\x86\Debug\Helloword.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Helloword\Helloword\obj\x86\Debug\Helloword.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Helloword\Helloword\obj\x86\Debug\Helloword.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\Helloword\Helloword\obj\x86\Debug\Helloword.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Helloword\Helloword\obj\x86\Debug\Helloword.pdb
