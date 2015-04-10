@@ -7,23 +7,8 @@ using System.IO; // for Path class
 
 namespace PhotoAlbum
 {
-    public static class AlbumStorage
+    class AlbumManager
     {
-        static public void WriteAlbum(PhotoAlbum album, string path);
-        static public PhotoAlbum ReadAlbum(string path);
-
-
-        static public bool AlbumExists(string name)
-        {
-            return File.Exists(name);
-        }
-    }
-    public class AlbumManager
-    {
-        static public bool AlbumExists(string name)
-        {
-            return File.Exists(name);
-        }
         static private string defaultPath;
         static public string DefaultPath
         {
@@ -38,8 +23,8 @@ namespace PhotoAlbum
             + @"\Albums";
         }
 
-        private int pos = -1;
-        private string name = String.Empty;
+        private int _pos = -1;
+        private string _name = String.Empty;
         private PhotoAlbum album;
 
         public AlbumManager()
@@ -98,16 +83,16 @@ namespace PhotoAlbum
             get
             {
                 int count = Album.Count;
-                if (pos >= count)
-                    pos = count - 1;
-                return pos;
+                if (_pos >= count)
+                    _pos = count - 1;
+                return _pos;
             }
             set
             {
                 if (value < 0 || value >= Album.Count)
                     throw new IndexOutOfRangeException(
                     "The given index is out of bounds");
-                pos = value;
+                _pos = value;
             }
         }
 
@@ -143,37 +128,6 @@ namespace PhotoAlbum
             Index--;
             return true;
         }
-
-        public AlbumManager(string name): this()
-        {
-            //name = name;
-            album = AlbumStorage.ReadAlbum(name);
-            if (Album.Count > 0)
-                Index = 0;
-        }
-
-        public void Save()
-        {
-            if (FullName == null)
-                throw new InvalidOperationException( "Unable to save album with no name");
-            AlbumStorage.WriteAlbum(Album, FullName);
-        }
-        public void Save(string name, bool overwrite)
-        {
-            if (name == null)
-                throw new ArgumentNullException("name");
-            if (name != FullName && AlbumExists(name) && !overwrite)
-                throw new ArgumentException(
-                "An album with this name exists");
-            AlbumStorage.WriteAlbum(Album, name);
-            FullName = name;
-        }
-    
-    
-    
-    
-    
     }
-        }
-
+    }
 

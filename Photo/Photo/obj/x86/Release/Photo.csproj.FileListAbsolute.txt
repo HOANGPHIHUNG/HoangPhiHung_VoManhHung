@@ -12,6 +12,3 @@ E:\Winform\Photo\Photo\obj\x86\Release\Photo.Properties.Resources.resources
 E:\Winform\Photo\Photo\obj\x86\Release\Photo.csproj.GenerateResource.Cache
 E:\Winform\Photo\Photo\obj\x86\Release\Photo.exe
 E:\Winform\Photo\Photo\obj\x86\Release\Photo.pdb
-E:\Winform\Photo\Photo\obj\x86\Release\Photo.csprojResolveAssemblyReference.cache
-E:\Winform\Photo\Photo\bin\Release\PhotoAlbum.dll
-E:\Winform\Photo\Photo\bin\Release\PhotoAlbum.pdb

@@ -1,5 +1,0 @@
-E:\Winform\Photo\PhotoAlbum\bin\Release\PhotoAlbum.dll
-E:\Winform\Photo\PhotoAlbum\bin\Release\PhotoAlbum.pdb
-E:\Winform\Photo\PhotoAlbum\obj\Release\PhotoAlbum.dll
-E:\Winform\Photo\PhotoAlbum\obj\Release\PhotoAlbum.pdb
-E:\Winform\Photo\PhotoAlbum\obj\Release\PhotoAlbum.csprojResolveAssemblyReference.cache

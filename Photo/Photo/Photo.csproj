@@ -76,12 +76,6 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\PhotoAlbum\PhotoAlbum.csproj">
-      <Project>{5659F084-5B55-4E20-896C-E54DF46E3BCC}</Project>
-      <Name>PhotoAlbum</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
