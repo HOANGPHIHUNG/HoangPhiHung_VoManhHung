@@ -1,0 +1,5 @@
+E:\git\Hoangphihung_vomanhhung\MyPhoto\PhotoAlbum\bin\Release\PhotoAlbum.dll
+E:\git\Hoangphihung_vomanhhung\MyPhoto\PhotoAlbum\bin\Release\PhotoAlbum.pdb
+E:\git\Hoangphihung_vomanhhung\MyPhoto\PhotoAlbum\obj\Release\PhotoAlbum.dll
+E:\git\Hoangphihung_vomanhhung\MyPhoto\PhotoAlbum\obj\Release\PhotoAlbum.pdb
+E:\git\Hoangphihung_vomanhhung\MyPhoto\PhotoAlbum\obj\Release\PhotoAlbum.csprojResolveAssemblyReference.cache

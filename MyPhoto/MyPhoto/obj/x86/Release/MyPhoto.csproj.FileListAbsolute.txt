@@ -1,0 +1,4 @@
+E:\git\Hoangphihung_vomanhhung\MyPhoto\MyPhoto\obj\x86\Release\MyPhoto.csprojResolveAssemblyReference.cache
+E:\git\Hoangphihung_vomanhhung\MyPhoto\MyPhoto\obj\x86\Release\MyPhoto.MainForm.resources
+E:\git\Hoangphihung_vomanhhung\MyPhoto\MyPhoto\obj\x86\Release\MyPhoto.Properties.Resources.resources
+E:\git\Hoangphihung_vomanhhung\MyPhoto\MyPhoto\obj\x86\Release\MyPhoto.csproj.GenerateResource.Cache

@@ -1,0 +1,27 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotos\bin\Debug\MyPhotos.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotos\bin\Debug\MyPhotos.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotos\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.Form1.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.Properties.Resources.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotos\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotos\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotos\bin\Debug\PhotoAlbum.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotos\bin\Debug\PhotoAlbum.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotos\bin\Debug\MyPhotoControls.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotos\bin\Debug\MyPhotoControls.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.SlideShowDialog.resources
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.exe
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.pdb
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\MyPhotos\MyPhotos\bin\Debug\MyPhotos.exe
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\MyPhotos\MyPhotos\bin\Debug\MyPhotos.pdb
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\MyPhotos\MyPhotos\bin\Debug\MyPhotoControls.dll
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\MyPhotos\MyPhotos\bin\Debug\PhotoAlbum.dll
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\MyPhotos\MyPhotos\bin\Debug\MyPhotoControls.pdb
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\MyPhotos\MyPhotos\bin\Debug\PhotoAlbum.pdb
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.csprojResolveAssemblyReference.cache
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.Form1.resources
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.Properties.Resources.resources
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.SlideShowDialog.resources
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.csproj.GenerateResource.Cache

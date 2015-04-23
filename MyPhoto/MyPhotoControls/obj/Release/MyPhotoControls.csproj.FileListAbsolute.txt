@@ -1,0 +1,4 @@
+E:\git\Hoangphihung_vomanhhung\MyPhoto\MyPhotoControls\obj\Release\MyPhotoControls.csprojResolveAssemblyReference.cache
+E:\git\Hoangphihung_vomanhhung\MyPhoto\MyPhotoControls\obj\Release\MyPhotoControls.BaseEditDialog.resources
+E:\git\Hoangphihung_vomanhhung\MyPhoto\MyPhotoControls\obj\Release\MyPhotoControls.PixelDialog.resources
+E:\git\Hoangphihung_vomanhhung\MyPhoto\MyPhotoControls\obj\Release\MyPhotoControls.csproj.GenerateResource.Cache

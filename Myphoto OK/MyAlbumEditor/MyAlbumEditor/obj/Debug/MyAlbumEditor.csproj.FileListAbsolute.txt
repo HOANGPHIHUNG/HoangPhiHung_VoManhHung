@@ -1,0 +1,15 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyAlbumEditor\MyAlbumEditor\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.EditorForm.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyAlbumEditor\MyAlbumEditor\obj\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyAlbumEditor\MyAlbumEditor\obj\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyAlbumEditor.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyAlbumEditor.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyPhotoControls.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyAlbumEditor\MyAlbumEditor\bin\Debug\PhotoAlbum.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyAlbumEditor\MyAlbumEditor\bin\Debug\MyPhotoControls.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyAlbumEditor\MyAlbumEditor\bin\Debug\PhotoAlbum.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.AlbumCalendar.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.AlbumImage.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MyAlbumEditor\MyAlbumEditor\obj\Debug\MyAlbumEditor.WorkerProgressDialog.resources

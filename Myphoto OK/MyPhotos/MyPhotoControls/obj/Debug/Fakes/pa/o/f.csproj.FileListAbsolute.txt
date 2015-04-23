@@ -1,0 +1,9 @@
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\MyPhotos\MyPhotoControls\obj\Debug\Fakes\pa\b\PhotoAlbum.Fakes.xml
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\MyPhotos\MyPhotoControls\obj\Debug\Fakes\pa\b\PhotoAlbum.Fakes.dll
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\MyPhotos\MyPhotoControls\obj\Debug\Fakes\pa\b\PhotoAlbum.Fakes.pdb
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\MyPhotos\MyPhotoControls\obj\Debug\Fakes\pa\b\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\MyPhotos\MyPhotoControls\obj\Debug\Fakes\pa\b\PhotoAlbum.dll
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\MyPhotos\MyPhotoControls\obj\Debug\Fakes\pa\b\PhotoAlbum.pdb
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\MyPhotos\MyPhotoControls\obj\Debug\Fakes\pa\o\f.csprojResolveAssemblyReference.cache
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\MyPhotos\MyPhotoControls\obj\Debug\Fakes\pa\o\PhotoAlbum.Fakes.dll
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\MyPhotos\MyPhotoControls\obj\Debug\Fakes\pa\o\PhotoAlbum.Fakes.pdb

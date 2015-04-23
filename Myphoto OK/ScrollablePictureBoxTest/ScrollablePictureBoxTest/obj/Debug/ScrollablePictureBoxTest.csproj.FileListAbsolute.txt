@@ -1,0 +1,9 @@
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\ScrollablePictureBoxTest\ScrollablePictureBoxTest\bin\Debug\ScrollablePictureBoxTest.exe.config
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\ScrollablePictureBoxTest\ScrollablePictureBoxTest\bin\Debug\ScrollablePictureBoxTest.exe
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\ScrollablePictureBoxTest\ScrollablePictureBoxTest\bin\Debug\ScrollablePictureBoxTest.pdb
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\ScrollablePictureBoxTest\ScrollablePictureBoxTest\obj\Debug\ScrollablePictureBoxTest.csprojResolveAssemblyReference.cache
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\ScrollablePictureBoxTest\ScrollablePictureBoxTest\obj\Debug\ScrollablePictureBoxTest.Properties.Resources.resources
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\ScrollablePictureBoxTest\ScrollablePictureBoxTest\obj\Debug\ScrollablePictureBoxTest.TestForm.resources
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\ScrollablePictureBoxTest\ScrollablePictureBoxTest\obj\Debug\ScrollablePictureBoxTest.csproj.GenerateResource.Cache
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\ScrollablePictureBoxTest\ScrollablePictureBoxTest\obj\Debug\ScrollablePictureBoxTest.exe
+E:\Dropbox\TAI LIEU IMP\CTr DH\LAP TRINH NANG CAO\Source Code - Chuong 16\ScrollablePictureBoxTest\ScrollablePictureBoxTest\obj\Debug\ScrollablePictureBoxTest.pdb

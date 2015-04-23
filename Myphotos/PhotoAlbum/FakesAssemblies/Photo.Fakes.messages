@@ -1,0 +1,6 @@
+E:\LTNC\Photo\PhotoAlbum\Fakes\Photo.fakes : warning : Cannot generate stub for Photo.Program: type is sealed.
+E:\LTNC\Photo\PhotoAlbum\Fakes\Photo.fakes : warning : Cannot generate stub for Photo.Properties.Resources: type is not visible to exported or assembly(Photo.Fakes).
+E:\LTNC\Photo\PhotoAlbum\Fakes\Photo.fakes : warning : Cannot generate stub for Photo.Properties.Settings: type is sealed.
+E:\LTNC\Photo\PhotoAlbum\Fakes\Photo.fakes : warning : Cannot generate shim for Photo.Program: type is not visible to exported or assembly(Photo.Fakes).
+E:\LTNC\Photo\PhotoAlbum\Fakes\Photo.fakes : warning : Cannot generate shim for Photo.Properties.Resources: type is not visible to exported or assembly(Photo.Fakes).
+E:\LTNC\Photo\PhotoAlbum\Fakes\Photo.fakes : warning : Cannot generate shim for Photo.Properties.Settings: type is not visible to exported or assembly(Photo.Fakes).

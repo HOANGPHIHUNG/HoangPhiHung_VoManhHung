@@ -1,0 +1,12 @@
+E:\LTNC\Photo\PhotoAlbum\bin\Debug\PhotoAlbum.dll
+E:\LTNC\Photo\PhotoAlbum\bin\Debug\PhotoAlbum.pdb
+E:\LTNC\Photo\PhotoAlbum\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\LTNC\Photo\PhotoAlbum\obj\Debug\PhotoAlbum.dll
+E:\LTNC\Photo\PhotoAlbum\obj\Debug\PhotoAlbum.pdb
+E:\LTNC\Photo\PhotoAlbum\obj\Debug\PhotoAlbum.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Photo-Chuong 8.v1\PhotoAlbum\bin\Debug\PhotoAlbum.dll
+C:\Users\HP\Desktop\Photo-Chuong 8.v1\PhotoAlbum\bin\Debug\PhotoAlbum.pdb
+C:\Users\HP\Desktop\Photo-Chuong 8.v1\PhotoAlbum\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\HP\Desktop\Photo-Chuong 8.v1\PhotoAlbum\obj\Debug\PhotoAlbum.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Photo-Chuong 8.v1\PhotoAlbum\obj\Debug\PhotoAlbum.dll
+C:\Users\HP\Desktop\Photo-Chuong 8.v1\PhotoAlbum\obj\Debug\PhotoAlbum.pdb

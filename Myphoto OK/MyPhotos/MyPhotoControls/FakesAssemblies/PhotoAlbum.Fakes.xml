@@ -1,0 +1,746 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PhotoAlbum.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:PhotoAlbum.Fakes.ShimAlbumManager">
+            <summary>Shim type of PhotoAlbum.AlbumManager</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimAlbumManager.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimAlbumManager.#ctor(PhotoAlbum.AlbumManager)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimAlbumManager.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimAlbumManager.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.AlbumExistsString">
+            <summary>Sets the shim of AlbumManager.AlbumExists(String name)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.AlbumGet">
+            <summary>Sets the shim of AlbumManager.get_Album()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.Constructor">
+            <summary>Sets the shim of AlbumManager.AlbumManager()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.ConstructorString">
+            <summary>Sets the shim of AlbumManager.AlbumManager(String name)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.ConstructorStringString">
+            <summary>Sets the shim of AlbumManager.AlbumManager(String name, String pwd)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.CurrentGet">
+            <summary>Sets the shim of AlbumManager.get_Current()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.CurrentImageGet">
+            <summary>Sets the shim of AlbumManager.get_CurrentImage()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.DefaultPathGet">
+            <summary>Sets the shim of AlbumManager.get_DefaultPath()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.DefaultPathSetString">
+            <summary>Sets the shim of AlbumManager.set_DefaultPath(String value)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.FullNameGet">
+            <summary>Sets the shim of AlbumManager.get_FullName()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.FullNameSetString">
+            <summary>Sets the shim of AlbumManager.set_FullName(String value)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.IndexGet">
+            <summary>Sets the shim of AlbumManager.get_Index()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.IndexSetInt32">
+            <summary>Sets the shim of AlbumManager.set_Index(Int32 value)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.MoveItemBackwardInt32">
+            <summary>Sets the shim of AlbumManager.MoveItemBackward(Int32 index)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.MoveItemForwardInt32">
+            <summary>Sets the shim of AlbumManager.MoveItemForward(Int32 index)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.MoveNext">
+            <summary>Sets the shim of AlbumManager.MoveNext()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.MovePrev">
+            <summary>Sets the shim of AlbumManager.MovePrev()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.PasswordGet">
+            <summary>Sets the shim of AlbumManager.get_Password()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.PasswordSetString">
+            <summary>Sets the shim of AlbumManager.set_Password(String value)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.PhotographersGet">
+            <summary>Sets the shim of AlbumManager.get_Photographers()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.Save">
+            <summary>Sets the shim of AlbumManager.Save()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.SaveStringBoolean">
+            <summary>Sets the shim of AlbumManager.Save(String name, Boolean overwrite)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.ShortNameGet">
+            <summary>Sets the shim of AlbumManager.get_ShortName()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.StaticConstructor">
+            <summary>Sets the shim of AlbumManager.AlbumManager()</summary>
+        </member>
+        <member name="T:PhotoAlbum.Fakes.ShimAlbumManager.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.AllInstances.AlbumGet">
+            <summary>Sets the shim of AlbumManager.get_Album()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.AllInstances.CurrentGet">
+            <summary>Sets the shim of AlbumManager.get_Current()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.AllInstances.CurrentImageGet">
+            <summary>Sets the shim of AlbumManager.get_CurrentImage()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.AllInstances.FullNameGet">
+            <summary>Sets the shim of AlbumManager.get_FullName()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.AllInstances.FullNameSetString">
+            <summary>Sets the shim of AlbumManager.set_FullName(String value)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.AllInstances.IndexGet">
+            <summary>Sets the shim of AlbumManager.get_Index()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.AllInstances.IndexSetInt32">
+            <summary>Sets the shim of AlbumManager.set_Index(Int32 value)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.AllInstances.MoveItemBackwardInt32">
+            <summary>Sets the shim of AlbumManager.MoveItemBackward(Int32 index)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.AllInstances.MoveItemForwardInt32">
+            <summary>Sets the shim of AlbumManager.MoveItemForward(Int32 index)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.AllInstances.MoveNext">
+            <summary>Sets the shim of AlbumManager.MoveNext()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.AllInstances.MovePrev">
+            <summary>Sets the shim of AlbumManager.MovePrev()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.AllInstances.PasswordGet">
+            <summary>Sets the shim of AlbumManager.get_Password()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.AllInstances.PasswordSetString">
+            <summary>Sets the shim of AlbumManager.set_Password(String value)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.AllInstances.PhotographersGet">
+            <summary>Sets the shim of AlbumManager.get_Photographers()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.AllInstances.Save">
+            <summary>Sets the shim of AlbumManager.Save()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.AllInstances.SaveStringBoolean">
+            <summary>Sets the shim of AlbumManager.Save(String name, Boolean overwrite)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumManager.AllInstances.ShortNameGet">
+            <summary>Sets the shim of AlbumManager.get_ShortName()</summary>
+        </member>
+        <member name="T:PhotoAlbum.Fakes.ShimAlbumStorage">
+            <summary>Shim type of PhotoAlbum.AlbumStorage</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimAlbumStorage.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimAlbumStorage.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimAlbumStorage.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumStorage.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumStorage.IsEncryptedString">
+            <summary>Sets the shim of AlbumStorage.IsEncrypted(String path)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumStorage.ReadAlbumString">
+            <summary>Sets the shim of AlbumStorage.ReadAlbum(String path)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumStorage.ReadAlbumStringString">
+            <summary>Sets the shim of AlbumStorage.ReadAlbum(String path, String password)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumStorage.ReadAlbumV63StreamReaderPhotoAlbum">
+            <summary>Sets the shim of AlbumStorage.ReadAlbumV63(StreamReader sr, PhotoAlbum album)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumStorage.ReadAlbumV91StreamReaderPhotoAlbum">
+            <summary>Sets the shim of AlbumStorage.ReadAlbumV91(StreamReader sr, PhotoAlbum album)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumStorage.ReadPhotoV63StreamReader">
+            <summary>Sets the shim of AlbumStorage.ReadPhotoV63(StreamReader sr)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumStorage.StaticConstructor">
+            <summary>Sets the shim of AlbumStorage.AlbumStorage()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumStorage.WriteAlbumPhotoAlbumString">
+            <summary>Sets the shim of AlbumStorage.WriteAlbum(PhotoAlbum album, String path)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumStorage.WriteAlbumPhotoAlbumStringString">
+            <summary>Sets the shim of AlbumStorage.WriteAlbum(PhotoAlbum album, String path, String password)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumStorage.WritePhotoStreamWriterPhoto">
+            <summary>Sets the shim of AlbumStorage.WritePhoto(StreamWriter sw, Photo p)</summary>
+        </member>
+        <member name="T:PhotoAlbum.Fakes.ShimAlbumStorageException">
+            <summary>Shim type of PhotoAlbum.AlbumStorageException</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimAlbumStorageException.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimAlbumStorageException.#ctor(PhotoAlbum.AlbumStorageException)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimAlbumStorageException.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimAlbumStorageException.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimAlbumStorageException.Bind(System.Runtime.Serialization.ISerializable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumStorageException.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumStorageException.Constructor">
+            <summary>Sets the shim of AlbumStorageException.AlbumStorageException()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumStorageException.ConstructorString">
+            <summary>Sets the shim of AlbumStorageException.AlbumStorageException(String msg)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimAlbumStorageException.ConstructorStringException">
+            <summary>Sets the shim of AlbumStorageException.AlbumStorageException(String msg, Exception inner)</summary>
+        </member>
+        <member name="T:PhotoAlbum.Fakes.ShimAlbumStorageException.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="T:PhotoAlbum.Fakes.ShimImageUtility">
+            <summary>Shim type of PhotoAlbum.ImageUtility</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimImageUtility.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimImageUtility.#ctor(PhotoAlbum.ImageUtility)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimImageUtility.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimImageUtility.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimImageUtility.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimImageUtility.Constructor">
+            <summary>Sets the shim of ImageUtility.ImageUtility()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimImageUtility.ScaleToFitBitmapRectangle">
+            <summary>Sets the shim of ImageUtility.ScaleToFit(Bitmap bmp, Rectangle targetArea)</summary>
+        </member>
+        <member name="T:PhotoAlbum.Fakes.ShimImageUtility.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="T:PhotoAlbum.Fakes.ShimPhoto">
+            <summary>Shim type of PhotoAlbum.Photo</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimPhoto.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimPhoto.#ctor(PhotoAlbum.Photo)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimPhoto.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimPhoto.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimPhoto.Bind(System.IDisposable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimPhoto.Bind(System.IFormattable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.CaptionGet">
+            <summary>Sets the shim of Photo.get_Caption()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.CaptionSetString">
+            <summary>Sets the shim of Photo.set_Caption(String value)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.ConstructorString">
+            <summary>Sets the shim of Photo.Photo(String fileName)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.DateTakenGet">
+            <summary>Sets the shim of Photo.get_DateTaken()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.DateTakenSetDateTime">
+            <summary>Sets the shim of Photo.set_DateTaken(DateTime value)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.Dispose">
+            <summary>Sets the shim of Photo.Dispose()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.EqualsObject">
+            <summary>Sets the shim of Photo.Equals(Object obj)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.FileNameGet">
+            <summary>Sets the shim of Photo.get_FileName()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.GetHashCode">
+            <summary>Sets the shim of Photo.GetHashCode()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.HasChangedGet">
+            <summary>Sets the shim of Photo.get_HasChanged()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.HasChangedSetBoolean">
+            <summary>Sets the shim of Photo.set_HasChanged(Boolean value)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.ImageGet">
+            <summary>Sets the shim of Photo.get_Image()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.NotesGet">
+            <summary>Sets the shim of Photo.get_Notes()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.NotesSetString">
+            <summary>Sets the shim of Photo.set_Notes(String value)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.PhotographerGet">
+            <summary>Sets the shim of Photo.get_Photographer()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.PhotographerSetString">
+            <summary>Sets the shim of Photo.set_Photographer(String value)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.ToString">
+            <summary>Sets the shim of Photo.ToString()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.ToStringIFormatProvider">
+            <summary>Sets the shim of Photo.ToString(IFormatProvider fp)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.ToStringString">
+            <summary>Sets the shim of Photo.ToString(String format)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.ToStringStringIFormatProvider">
+            <summary>Sets the shim of Photo.ToString(String format, IFormatProvider formatProvider)</summary>
+        </member>
+        <member name="T:PhotoAlbum.Fakes.ShimPhoto.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.AllInstances.CaptionGet">
+            <summary>Sets the shim of Photo.get_Caption()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.AllInstances.CaptionSetString">
+            <summary>Sets the shim of Photo.set_Caption(String value)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.AllInstances.DateTakenGet">
+            <summary>Sets the shim of Photo.get_DateTaken()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.AllInstances.DateTakenSetDateTime">
+            <summary>Sets the shim of Photo.set_DateTaken(DateTime value)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.AllInstances.Dispose">
+            <summary>Sets the shim of Photo.Dispose()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.AllInstances.EqualsObject">
+            <summary>Sets the shim of Photo.Equals(Object obj)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.AllInstances.FileNameGet">
+            <summary>Sets the shim of Photo.get_FileName()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.AllInstances.GetHashCode01">
+            <summary>Sets the shim of Photo.GetHashCode()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.AllInstances.HasChangedGet">
+            <summary>Sets the shim of Photo.get_HasChanged()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.AllInstances.HasChangedSetBoolean">
+            <summary>Sets the shim of Photo.set_HasChanged(Boolean value)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.AllInstances.ImageGet">
+            <summary>Sets the shim of Photo.get_Image()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.AllInstances.NotesGet">
+            <summary>Sets the shim of Photo.get_Notes()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.AllInstances.NotesSetString">
+            <summary>Sets the shim of Photo.set_Notes(String value)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.AllInstances.PhotographerGet">
+            <summary>Sets the shim of Photo.get_Photographer()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.AllInstances.PhotographerSetString">
+            <summary>Sets the shim of Photo.set_Photographer(String value)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.AllInstances.ToString01">
+            <summary>Sets the shim of Photo.ToString()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.AllInstances.ToStringIFormatProvider">
+            <summary>Sets the shim of Photo.ToString(IFormatProvider fp)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.AllInstances.ToStringString">
+            <summary>Sets the shim of Photo.ToString(String format)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhoto.AllInstances.ToStringStringIFormatProvider">
+            <summary>Sets the shim of Photo.ToString(String format, IFormatProvider formatProvider)</summary>
+        </member>
+        <member name="T:PhotoAlbum.Fakes.ShimPhotoAlbum">
+            <summary>Shim type of PhotoAlbum.PhotoAlbum</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimPhotoAlbum.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimPhotoAlbum.#ctor(PhotoAlbum.PhotoAlbum)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimPhotoAlbum.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimPhotoAlbum.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimPhotoAlbum.Bind(System.IDisposable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimPhotoAlbum.Bind(System.Collections.ICollection)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimPhotoAlbum.Bind(System.Collections.IEnumerable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimPhotoAlbum.Bind(System.Collections.IList)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimPhotoAlbum.Bind(System.Collections.Generic.ICollection{PhotoAlbum.Photo})">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimPhotoAlbum.Bind(System.Collections.Generic.IEnumerable{PhotoAlbum.Photo})">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.ShimPhotoAlbum.Bind(System.Collections.Generic.IList{PhotoAlbum.Photo})">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.AddString">
+            <summary>Sets the shim of PhotoAlbum.Add(String fileName)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.ClearItems">
+            <summary>Sets the shim of PhotoAlbum.ClearItems()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.ClearSettings">
+            <summary>Sets the shim of PhotoAlbum.ClearSettings()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.Constructor">
+            <summary>Sets the shim of PhotoAlbum.PhotoAlbum()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.Dispose">
+            <summary>Sets the shim of PhotoAlbum.Dispose()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.GetDescriptionInt32">
+            <summary>Sets the shim of PhotoAlbum.GetDescription(Int32 index)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.GetDescriptionPhoto">
+            <summary>Sets the shim of PhotoAlbum.GetDescription(Photo photo)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.GetDescriptorFormat">
+            <summary>Sets the shim of PhotoAlbum.GetDescriptorFormat()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.HasChangedGet">
+            <summary>Sets the shim of PhotoAlbum.get_HasChanged()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.HasChangedSetBoolean">
+            <summary>Sets the shim of PhotoAlbum.set_HasChanged(Boolean value)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.InsertItemInt32Photo">
+            <summary>Sets the shim of PhotoAlbum.InsertItem(Int32 index, Photo item)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.PhotoDescriptorGet">
+            <summary>Sets the shim of PhotoAlbum.get_PhotoDescriptor()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.PhotoDescriptorSetPhotoAlbumDescriptorOption">
+            <summary>Sets the shim of PhotoAlbum.set_PhotoDescriptor(DescriptorOption value)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.RemoveItemInt32">
+            <summary>Sets the shim of PhotoAlbum.RemoveItem(Int32 index)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.SetItemInt32Photo">
+            <summary>Sets the shim of PhotoAlbum.SetItem(Int32 index, Photo item)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.TitleGet">
+            <summary>Sets the shim of PhotoAlbum.get_Title()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.TitleSetString">
+            <summary>Sets the shim of PhotoAlbum.set_Title(String value)</summary>
+        </member>
+        <member name="T:PhotoAlbum.Fakes.ShimPhotoAlbum.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.AllInstances.AddString">
+            <summary>Sets the shim of PhotoAlbum.Add(String fileName)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.AllInstances.ClearItems">
+            <summary>Sets the shim of PhotoAlbum.ClearItems()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.AllInstances.ClearSettings">
+            <summary>Sets the shim of PhotoAlbum.ClearSettings()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.AllInstances.Dispose">
+            <summary>Sets the shim of PhotoAlbum.Dispose()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.AllInstances.GetDescriptionInt32">
+            <summary>Sets the shim of PhotoAlbum.GetDescription(Int32 index)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.AllInstances.GetDescriptionPhoto">
+            <summary>Sets the shim of PhotoAlbum.GetDescription(Photo photo)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.AllInstances.GetDescriptorFormat">
+            <summary>Sets the shim of PhotoAlbum.GetDescriptorFormat()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.AllInstances.HasChangedGet">
+            <summary>Sets the shim of PhotoAlbum.get_HasChanged()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.AllInstances.HasChangedSetBoolean">
+            <summary>Sets the shim of PhotoAlbum.set_HasChanged(Boolean value)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.AllInstances.InsertItemInt32Photo">
+            <summary>Sets the shim of PhotoAlbum.InsertItem(Int32 index, Photo item)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.AllInstances.PhotoDescriptorGet">
+            <summary>Sets the shim of PhotoAlbum.get_PhotoDescriptor()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.AllInstances.PhotoDescriptorSetPhotoAlbumDescriptorOption">
+            <summary>Sets the shim of PhotoAlbum.set_PhotoDescriptor(DescriptorOption value)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.AllInstances.RemoveItemInt32">
+            <summary>Sets the shim of PhotoAlbum.RemoveItem(Int32 index)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.AllInstances.SetItemInt32Photo">
+            <summary>Sets the shim of PhotoAlbum.SetItem(Int32 index, Photo item)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.AllInstances.TitleGet">
+            <summary>Sets the shim of PhotoAlbum.get_Title()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.ShimPhotoAlbum.AllInstances.TitleSetString">
+            <summary>Sets the shim of PhotoAlbum.set_Title(String value)</summary>
+        </member>
+        <member name="T:PhotoAlbum.Fakes.StubAlbumManager">
+            <summary>Stub type of PhotoAlbum.AlbumManager</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.StubAlbumManager.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.StubAlbumManager.#ctor(System.String)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.StubAlbumManager.#ctor(System.String,System.String)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.StubAlbumManager.InitializeStub">
+            <summary>Initializes a new instance of type StubAlbumManager</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.StubAlbumManager.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.StubAlbumManager.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.StubAlbumManager.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:PhotoAlbum.Fakes.StubAlbumStorageException">
+            <summary>Stub type of PhotoAlbum.AlbumStorageException</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.StubAlbumStorageException.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.StubAlbumStorageException.#ctor(System.String)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.StubAlbumStorageException.#ctor(System.String,System.Exception)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.StubAlbumStorageException.AttachBackingFieldToHelpLink">
+            <summary>Attaches delegates to emulate StubAlbumStorageException.HelpLink as a property with a backing field.</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.StubAlbumStorageException.AttachBackingFieldToSource">
+            <summary>Attaches delegates to emulate StubAlbumStorageException.Source as a property with a backing field.</summary>
+        </member>
+        <member name="F:PhotoAlbum.Fakes.StubAlbumStorageException.DataGet">
+            <summary>Sets the stub of Exception.get_Data()</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.StubAlbumStorageException.GetBaseException">
+            <summary>Sets the stub of Exception.GetBaseException()</summary>
+        </member>
+        <member name="F:PhotoAlbum.Fakes.StubAlbumStorageException.GetBaseException01">
+            <summary>Sets the stub of Exception.GetBaseException()</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.StubAlbumStorageException.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <summary>Sets the stub of Exception.GetObjectData(SerializationInfo info, StreamingContext context)</summary>
+        </member>
+        <member name="F:PhotoAlbum.Fakes.StubAlbumStorageException.GetObjectDataSerializationInfoStreamingContext">
+            <summary>Sets the stub of Exception.GetObjectData(SerializationInfo info, StreamingContext context)</summary>
+        </member>
+        <member name="F:PhotoAlbum.Fakes.StubAlbumStorageException.HelpLinkGet">
+            <summary>Sets the stub of Exception.get_HelpLink()</summary>
+        </member>
+        <member name="F:PhotoAlbum.Fakes.StubAlbumStorageException.HelpLinkSetString">
+            <summary>Sets the stub of Exception.set_HelpLink(String value)</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.StubAlbumStorageException.InitializeStub">
+            <summary>Initializes a new instance of type StubAlbumStorageException</summary>
+        </member>
+        <member name="F:PhotoAlbum.Fakes.StubAlbumStorageException.MessageGet">
+            <summary>Sets the stub of Exception.get_Message()</summary>
+        </member>
+        <member name="F:PhotoAlbum.Fakes.StubAlbumStorageException.SourceGet">
+            <summary>Sets the stub of Exception.get_Source()</summary>
+        </member>
+        <member name="F:PhotoAlbum.Fakes.StubAlbumStorageException.SourceSetString">
+            <summary>Sets the stub of Exception.set_Source(String value)</summary>
+        </member>
+        <member name="F:PhotoAlbum.Fakes.StubAlbumStorageException.StackTraceGet">
+            <summary>Sets the stub of Exception.get_StackTrace()</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.StubAlbumStorageException.ToString">
+            <summary>Sets the stub of Exception.ToString()</summary>
+        </member>
+        <member name="F:PhotoAlbum.Fakes.StubAlbumStorageException.ToString01">
+            <summary>Sets the stub of Exception.ToString()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.StubAlbumStorageException.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.StubAlbumStorageException.Data">
+            <summary>Sets the stub of Exception.get_Data()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.StubAlbumStorageException.HelpLink">
+            <summary>Sets the stub of Exception.get_HelpLink()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.StubAlbumStorageException.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.StubAlbumStorageException.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.StubAlbumStorageException.Message">
+            <summary>Sets the stub of Exception.get_Message()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.StubAlbumStorageException.Source">
+            <summary>Sets the stub of Exception.get_Source()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.StubAlbumStorageException.StackTrace">
+            <summary>Sets the stub of Exception.get_StackTrace()</summary>
+        </member>
+        <member name="T:PhotoAlbum.Fakes.StubImageUtility">
+            <summary>Stub type of PhotoAlbum.ImageUtility</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.StubImageUtility.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.StubImageUtility.InitializeStub">
+            <summary>Initializes a new instance of type StubImageUtility</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.StubImageUtility.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.StubImageUtility.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.StubImageUtility.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:PhotoAlbum.Fakes.StubPhoto">
+            <summary>Stub type of PhotoAlbum.Photo</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.StubPhoto.#ctor(System.String)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.StubPhoto.Equals(System.Object)">
+            <summary>Sets the stub of Photo.Equals(Object obj)</summary>
+        </member>
+        <member name="F:PhotoAlbum.Fakes.StubPhoto.EqualsObject">
+            <summary>Sets the stub of Photo.Equals(Object obj)</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.StubPhoto.GetHashCode">
+            <summary>Sets the stub of Photo.GetHashCode()</summary>
+        </member>
+        <member name="F:PhotoAlbum.Fakes.StubPhoto.GetHashCode01">
+            <summary>Sets the stub of Photo.GetHashCode()</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.StubPhoto.InitializeStub">
+            <summary>Initializes a new instance of type StubPhoto</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.StubPhoto.ToString">
+            <summary>Sets the stub of Photo.ToString()</summary>
+        </member>
+        <member name="F:PhotoAlbum.Fakes.StubPhoto.ToString01">
+            <summary>Sets the stub of Photo.ToString()</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.StubPhoto.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.StubPhoto.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.StubPhoto.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:PhotoAlbum.Fakes.StubPhotoAlbum">
+            <summary>Stub type of PhotoAlbum.PhotoAlbum</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.StubPhotoAlbum.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.StubPhotoAlbum.ClearItems">
+            <summary>Sets the stub of PhotoAlbum.ClearItems()</summary>
+        </member>
+        <member name="F:PhotoAlbum.Fakes.StubPhotoAlbum.ClearItems01">
+            <summary>Sets the stub of PhotoAlbum.ClearItems()</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.StubPhotoAlbum.InitializeStub">
+            <summary>Initializes a new instance of type StubPhotoAlbum</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.StubPhotoAlbum.InsertItem(System.Int32,PhotoAlbum.Photo)">
+            <summary>Sets the stub of PhotoAlbum.InsertItem(Int32 index, Photo item)</summary>
+        </member>
+        <member name="F:PhotoAlbum.Fakes.StubPhotoAlbum.InsertItemInt32Photo">
+            <summary>Sets the stub of PhotoAlbum.InsertItem(Int32 index, Photo item)</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.StubPhotoAlbum.RemoveItem(System.Int32)">
+            <summary>Sets the stub of PhotoAlbum.RemoveItem(Int32 index)</summary>
+        </member>
+        <member name="F:PhotoAlbum.Fakes.StubPhotoAlbum.RemoveItemInt32">
+            <summary>Sets the stub of PhotoAlbum.RemoveItem(Int32 index)</summary>
+        </member>
+        <member name="M:PhotoAlbum.Fakes.StubPhotoAlbum.SetItem(System.Int32,PhotoAlbum.Photo)">
+            <summary>Sets the stub of PhotoAlbum.SetItem(Int32 index, Photo item)</summary>
+        </member>
+        <member name="F:PhotoAlbum.Fakes.StubPhotoAlbum.SetItemInt32Photo">
+            <summary>Sets the stub of PhotoAlbum.SetItem(Int32 index, Photo item)</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.StubPhotoAlbum.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.StubPhotoAlbum.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:PhotoAlbum.Fakes.StubPhotoAlbum.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>
